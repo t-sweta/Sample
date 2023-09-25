@@ -1,2 +1,3 @@
 coding block
 This is another Sample
+This is third code
